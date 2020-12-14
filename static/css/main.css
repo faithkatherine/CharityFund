@@ -1,9 +1,26 @@
 body{
 	align-content: auto;
 	margin:40px;
+	background-color: rgb(175, 205, 224);
 }
 
-input[type=text]{
-	margin-top: 20px:;
+input{
+	margin-top: 20px;
+	margin-left: 20px;
+
+
 
 }
+
+label{
+	color: rgb(0,0,0); 
+	font-style: oblique;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bolder;
+
+}
+
+button{
+	background-color: rgb(221, 197, 231);
+	}

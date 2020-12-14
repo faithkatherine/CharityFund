@@ -1,0 +1,9 @@
+body{
+	align-content: auto;
+	margin:40px;
+}
+
+input[type=text]{
+	margin-top: 20px;
+
+}
